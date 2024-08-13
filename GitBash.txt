@@ -1,0 +1,146 @@
+
+PC@DESKTOP-REFO30V MINGW64 ~
+$ ls
+ AppData/
+'Configuración local'@
+ Contacts/
+ Cookies@
+'Datos de programa'@
+ Documents/
+ Downloads/
+'Entorno de red'@
+ Favorites/
+ Impresoras@
+ Links/
+'Menú Inicio'@
+ Microsoft/
+'Mis documentos'@
+ Music/
+ NTUSER.DAT
+ NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.0.regtrans-ms
+ NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.1.regtrans-ms
+ NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.2.regtrans-ms
+ NTUSER.DAT{a2332f17-cdbf-11ec-8680-002248483d79}.TxR.blf
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TM.blf
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000001.regtrans-ms
+ NTUSER.DAT{a2332f18-cdbf-11ec-8680-002248483d79}.TMContainer00000000000000000002.regtrans-ms
+ OneDrive/
+ Pictures/
+ Plantillas@
+ Reciente@
+'Saved Games'/
+ Searches/
+ SendTo@
+ Videos/
+'VirtualBox VMs'/
+ ansel/
+'breakout clase'/
+ https:/
+ https:github.com/
+ ntuser.dat.LOG1
+ ntuser.dat.LOG2
+ ntuser.ini
+ project_1/
+ project_2/
+
+PC@DESKTOP-REFO30V MINGW64 ~
+$ cd OneDrive/
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive
+$ ls
+'Almacén personal.lnk'*              'Escenarios S10 - S11 Belen.pptx'
+ Attachments/                         Escritorio/
+ Documents/                           Imágenes/
+'Escenarios S10 - S11 Belen 1.pptx'  'Introducción a OneDrive.pdf'
+'Escenarios S10 - S11 Belen 2.pptx'   Presentación.pptx
+'Escenarios S10 - S11 Belen 3.pptx'   desktop.ini
+'Escenarios S10 - S11 Belen 4.pptx'
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive
+$ cd Escritorio/
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio
+$ ls
+ DS4Windows/                             U/
+'Historia del software estudiado.docx'   Yo/
+ Juegos/                                 carrera/
+ Launchers/                             'desarrollo waze.docx'
+ Tools/                                  desktop.ini
+'Trabajo Final INDICACIONES.pdf'         verilog/
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio
+$ cd U/Certificación\ semiconductores/Electroncia\ avanzada/Tareas
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas
+$ ls
+'Tarea 1'/  'Tarea 2.docx'
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas
+$ Tarea\ 1/
+bash: Tarea 1/: Is a directory
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas
+$ ls
+'Tarea 1'/  'Tarea 2.docx'
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas
+$ cd Tarea/1
+bash: cd: Tarea/1: No such file or directory
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas
+$ ls
+'Tarea 1'/  'Tarea 2.docx'
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas
+$ cd Tarea\ 1
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1
+$ ls
+'Tarea 1.docx'  'Tarea 1.txt'
+
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1
+$ git clone https://github.com/Jzonta1219/Tarea-1.git
+Cloning into 'Tarea-1'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (3/3), done.
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1
+$ ls
+'Tarea 1.docx'  'Tarea 1.txt'   Tarea-1/
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1
+$ mv 'Tarea 1.docx' ./Tarea-1/
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1
+$ ls
+'Tarea 1.txt'   Tarea-1/
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1
+$ cd Tarea-1/
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1/Tarea-1 (main)
+$ ls
+ README.md  'Tarea 1.docx'
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1/Tarea-1 (main)
+$ git add Tarea\ 1.docx
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1/Tarea-1 (main)
+$ git commit -a
+[main 166fcfb] Tarea 1 utilizando REgex en Notepad++
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Tarea 1.docx
+
+PC@DESKTOP-REFO30V MINGW64 ~/OneDrive/Escritorio/U/Certificación semiconductores/Electroncia avanzada/Tareas/Tarea 1/Tarea-1 (main)
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 886.56 KiB | 36.94 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/Jzonta1219/Tarea-1.git
+   18ff978..166fcfb  main -> main
